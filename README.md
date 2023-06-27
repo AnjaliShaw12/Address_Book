@@ -1,1 +1,2 @@
 # Address_Book
+With a Python-based Address Book, contact administration will be made simpler. A reliable method for storing, managing, and retrieving contact information is provided by this GitHub project. This address book solution offers a user-friendly interface with functionality like adding new contacts, searching for particular entries, and editing details to simplify your contact management requirements.
